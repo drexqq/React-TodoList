@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-TodoList/static/css/main.34de6062.chunk.css",
-    "main.js": "/React-TodoList/static/js/main.3fc148d5.chunk.js",
-    "main.js.map": "/React-TodoList/static/js/main.3fc148d5.chunk.js.map",
+    "main.js": "/React-TodoList/static/js/main.c46f6ddd.chunk.js",
+    "main.js.map": "/React-TodoList/static/js/main.c46f6ddd.chunk.js.map",
     "runtime~main.js": "/React-TodoList/static/js/runtime~main.9330353c.js",
     "runtime~main.js.map": "/React-TodoList/static/js/runtime~main.9330353c.js.map",
     "static/js/2.83cd9716.chunk.js": "/React-TodoList/static/js/2.83cd9716.chunk.js",
     "static/js/2.83cd9716.chunk.js.map": "/React-TodoList/static/js/2.83cd9716.chunk.js.map",
     "index.html": "/React-TodoList/index.html",
-    "precache-manifest.dbd15b4a41d29a06e08db3fb33b666b3.js": "/React-TodoList/precache-manifest.dbd15b4a41d29a06e08db3fb33b666b3.js",
+    "precache-manifest.cc2ea08d2548f05ed37029d047870722.js": "/React-TodoList/precache-manifest.cc2ea08d2548f05ed37029d047870722.js",
     "service-worker.js": "/React-TodoList/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/React-TodoList/static/css/main.34de6062.chunk.css.map"
   }
